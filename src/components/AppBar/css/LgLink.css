@@ -1,0 +1,45 @@
+/*.LgLink {
+	border-bottom:1px solid black;
+}*/
+
+.LgLink {
+	display:flex;
+	flex-direction:row;
+	flex-wrap:nowrap;
+	cursor:pointer;
+	margin:0 -19px 0 -20px;
+}
+
+.LgLink:hover, .LgLink .active {
+	background: rgba(0, 0, 0, 0.2);
+}
+
+.LgLink a {
+	display:inline-block;
+	height:100%;
+	width:100%;
+	color:white;
+	opacity:.6;
+	font-size:1.3rem;
+	text-decoration: none;
+	padding:5px 15px;
+}
+
+.LgLink a:hover {
+	text-decoration:none;
+	opacity:1;
+}
+
+.LgLink .active, .LgLink .active i, .LgLink .active span {
+	color:rgba(255, 255, 255, 1);
+	opacity:1;
+}
+
+.active-bar {
+	display:inline-block;
+	height:32px;
+	width:4px;
+	background-color:#FEC131;
+	margin:auto;
+	position:absolute;
+}

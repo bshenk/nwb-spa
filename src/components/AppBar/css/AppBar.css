@@ -1,0 +1,82 @@
+.appBar {
+	background-color:#202020;
+	color:white;
+	flex:0 0 auto;
+	display:flex;
+	flex-direction: column;
+	flex-wrap: nowrap;
+	z-index:100;
+	width:220px;
+	box-shadow: inset -10px 0 15px -10px hsla(0,0%,0%,.5);
+}
+
+.appBar.mini {
+	width:60px;
+}
+
+.line-break {
+	width:180px;
+	height:1px;
+	background:rgba(255, 255, 255, .1);
+	margin-left:20px;
+}
+
+.appbar-content {
+	flex:1 1 auto;
+	overflow:auto;
+	padding:20px;
+}
+
+.mode-switch a, .mode-switch span, .mode-switch i {
+	color:#FEC131 !important;
+	opacity:1 !important;
+}
+
+.mode-switch .linkGroup {
+	margin:0;
+	padding:10px 0;
+}
+
+.logo {
+	text-align:center;
+	flex:0 0 auto;
+}
+
+.logo-bold {
+	color:white;
+	font-weight:900;
+	display:inline;
+}
+
+.logo h3 {
+	font-family: Roboto, Arial, sans-serif;
+	font-size:2rem;
+	letter-spacing:3px !important;
+	color:#FEC131;
+	margin:0;
+	padding:20px 0;
+	font-weight:300;
+	font-style:normal;
+}
+
+.logo a, .logo a:hover {
+	text-decoration:none;
+}
+
+.logo .strong {
+	font-weight:900;
+	color:white;
+}
+
+.copyright {
+	width:100%;
+	text-align:center;
+	flex:0 0 auto;
+	opacity: .6;
+}
+
+.copyright p {
+	font-size:1rem;
+	line-height:1.5rem;
+	margin:10px 0;
+}

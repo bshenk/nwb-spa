@@ -1,0 +1,64 @@
+.key {
+	position:absolute;
+	bottom:20px;
+	right:100px;
+	padding:20px;
+	z-index:1000;
+	background-color:#2F3136;
+	box-shadow: 0px 10px 36px -10px rgba(0,0,0,0.75);
+	pointer-events: none;
+	color:rgba(255, 255, 255, 0.9);
+}
+
+.key:empty {
+	display:none;
+}
+
+.key p {
+	display:inline;
+	margin-left:10px;
+	font-size:1.2rem;
+	line-height:1.8rem;
+	color: rgba(255, 255, 255, 0.5);
+}
+
+.circle {
+	border-radius:50%;
+	width:10px;
+	height:10px;
+	display:inline-block;
+}
+
+.rectangle {
+	width:10px;
+	height:10px;
+	display:inline-block;
+}
+
+.future {
+	background-color:#DF1212;
+}
+
+.past {
+	background-color:#3232D8;
+}
+
+.advanced {
+	background-color:#D81159;
+}
+
+.naive {
+	background-color:#FFBC42;
+}
+
+.origin {
+	background-color:#218380;
+}
+
+.pastPreview {
+	background-color: #B341CB;
+}
+
+.futurePreview {
+	background-color:#7FC136
+}

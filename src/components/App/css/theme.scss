@@ -1,0 +1,24 @@
+@import "~react-toolbox/lib/colors";
+
+$color-primary: #FEC131 !default;
+$color-text: $palette-grey-50 !default;
+$color-text-secondary: #FEC131 !default;
+
+$input-text-label-color: $color-white !default;
+$input-text-bottom-border-color: #FEC131 !default;
+
+$autocomplete-suggestions-background: #1E2124 !default;
+$autocomplete-suggestion-active-background: black !default;
+
+$chip-background: #1E2124 !default;
+$chip-remove-background: #1E2124 !default;
+$chip-remove-background-hover: #FEC131 !default;
+
+$dropdown-color-white: #1E2124 !default;
+$dropdown-value-hover-background: black !default;
+
+$checkbox-size: 1.7rem !default;
+$checkbox-focus-size: 1.7rem !default;
+$checkbox-field-margin-bottom: 0px !default;
+$checkbox-text-color: rgba($color-white, 0.9) !default !default;
+$checkbox-text-font-size: 1.2rem !default;

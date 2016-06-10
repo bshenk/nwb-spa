@@ -1,0 +1,50 @@
+{
+  "name": "nwb-spa",
+  "version": "1.0.0",
+  "description": "Describe nwb-spa here",
+  "private": true,
+  "scripts": {
+    "build": "nwb build-react-app",
+    "clean": "nwb clean-app",
+    "start": "nwb serve-react-app",
+    "test": "nwb test",
+    "test:watch": "nwb test --server"
+  },
+  "dependencies": {
+    "axios": "^0.12.0",
+    "leaflet": "^1.0.0-rc.1",
+    "leaflet-draw": "^0.3.0",
+    "leaflet.markercluster": "^1.0.0-rc.1.0",
+    "react": "^15.1.0",
+    "react-bootstrap": "^0.29.4",
+    "react-contextmenu": "^1.5.0",
+    "react-dom": "^15.1.0",
+    "react-icons": "^2.1.0",
+    "react-notification-system": "^0.2.7",
+    "react-redux": "^4.4.5",
+    "react-router": "^2.4.1",
+    "react-router-redux": "^4.0.5",
+    "react-select": "^0.9.1",
+    "react-toolbox": "^1.0.0",
+    "redux": "^3.5.2",
+    "redux-thunk": "^2.1.0"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "chai-immutable": "^1.5.4",
+    "css-loader": "^0.23.1",
+    "enzyme": "^2.3.0",
+    "extract-text-webpack-plugin": "^1.0.1",
+    "node-sass": "^3.4.2",
+    "nwb": "0.11.x",
+    "postcss-loader": "^0.9.1",
+    "react-addons-css-transition-group": "^15.1.0",
+    "react-addons-test-utils": "^15.1.0",
+    "sass-loader": "^3.2.0",
+    "style-loader": "^0.13.1",
+    "toolbox-loader": "0.0.3"
+  },
+  "author": "",
+  "license": "MIT",
+  "repository": ""
+}

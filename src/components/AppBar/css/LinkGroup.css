@@ -1,0 +1,55 @@
+.linkGroup {
+	padding:15px 0;
+}
+
+.linkGroup:first-child {
+	padding:0 0 10px 0;
+}
+
+.linkGroup .title {
+	text-align:left;
+	text-transform: uppercase;
+	height:25px;
+}
+
+.linkGroup .title span {
+	font-size:1rem;
+	letter-spacing:2px;
+	padding-top:6px;
+	font-weight:500;
+	opacity:.4;
+}
+
+.linkGroup i {
+	width:20px;
+	text-align:center;
+	margin-right:10px;
+	margin-left:2px;
+}
+
+/*.linkGroup i, .linkGroup p {
+	padding-right:10px;
+}*/
+
+.linkGroup p {
+	border-bottom:1px solid black;
+}
+
+.iconLink {
+	display:block;
+	border-bottom:1px solid black;
+	color:white;
+}
+
+.iconLink:hover {
+	color:white;
+}
+
+.iconLink i:hover {
+	color:#FEC131;
+	cursor: pointer;
+}
+
+.linkGroup .content {
+	text-align:left;
+}

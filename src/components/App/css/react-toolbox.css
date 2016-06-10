@@ -1,0 +1,39 @@
+[data-react-toolbox="dialog"] {
+	z-index:9999 !important;
+}
+
+[data-react-toolbox="years"] {
+	list-style: none;
+    padding: 0 !important;
+}
+
+[data-react-toolbox="checkbox"] {
+	margin-bottom:10px !important;
+	cursor:pointer;
+}
+
+[data-react-toolbox="checkbox"]:last-child {
+	margin-bottom:0 !important;
+}
+
+[data-react-toolbox="check"] {
+	border-width:1px !important;
+	margin-top:-2px;
+}
+
+[data-react-toolbox="autocomplete"] {
+	margin-top:-20px;
+}
+
+[data-react-toolbox="autocomplete"] ul li {
+	list-style-type: none;
+}
+
+[data-react-toolbox="autocomplete"] ul, [data-react-toolbox="dropdown"] ul {
+	-webkit-padding-start:0px !important;
+}
+
+/*Set datepicker above all else*/
+.style__root___v9XO9 {
+	z-index:1100 !important;
+}

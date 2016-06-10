@@ -1,0 +1,45 @@
+.layer-controls {
+	background-color:#282828;
+	flex:0 0 auto;
+	display:flex;
+	display:-webkit-flex;
+	flex-direction:column;
+	flex-wrap:nowrap;
+	box-shadow: inset 10px 0 15px -10px hsla(0,0%,0%,.5);
+}
+
+.fill {
+	flex: 1 1 auto;
+}
+
+.streaming {
+	color:#FEC131;
+}
+
+.react-context-menu-link {
+	text-decoration: none;
+}
+
+/*.middle-fill {
+	flex-grow:1;
+}*/
+
+.InputRange {
+	margin:20px 0 25px 0;
+}
+
+.InputRange-slider {
+	background:#FEC131 !important;
+	border:1px solid #FEC131 !important;
+}
+
+.InputRange-track--active {
+	background:#FEC131 !important;
+}
+
+.InputRange-label {
+	color:white !important;
+	font-size:1.2rem !important;
+	line-height:1.8rem !important;
+	margin:-5px 0 !important;
+}

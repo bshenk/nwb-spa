@@ -1,0 +1,28 @@
+.runProcess i {
+	width:20px;
+	margin-left:17px;
+	text-align:center;
+}
+
+.runProcess {
+	opacity:.6;
+	font-size:1.3rem;
+	color:white;
+	text-decoration:none;
+	cursor:pointer;
+	display:block;
+	margin:0 -19px 0 -20px;
+	padding:5px 0;
+}
+
+.runProcess:hover, .runProcess .active {
+	opacity:1;
+	color:white;
+	text-decoration:none;
+	background: rgba(0, 0, 0, 0.2);
+}
+
+.disabled {
+	pointer-events: none;
+	opacity:.2;
+}

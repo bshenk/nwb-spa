@@ -1,0 +1,21 @@
+.field-options {
+}
+
+.field-options h5 {
+	font-size:14px;
+	margin:0;
+}
+
+.field-options-header {
+	background-color:#27292e;
+	padding:10px 15px;
+}
+
+.field-options-content {
+	padding:10px 15px;
+}
+
+.field-options-content p {
+	margin:0;
+	font-size:12px;
+}
