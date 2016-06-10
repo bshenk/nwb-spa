@@ -1,0 +1,333 @@
+{
+  "count": 36,
+  "pastCount": 27,
+  "futureCount": 9,
+  "PAST": {
+    "955EGY": {
+      "eventId": "955EGY",
+      "fatalities": 41,
+      "coordinates": [
+        30.044400215148926,
+        31.23569965362549
+      ],
+      "date": "2011-11-24"
+    },
+    "926EGY": {
+      "eventId": "926EGY",
+      "fatalities": 37,
+      "coordinates": [
+        30.077099800109863,
+        31.285900115966797
+      ],
+      "date": "2011-10-09"
+    },
+    "971EGY": {
+      "eventId": "971EGY",
+      "fatalities": 9,
+      "coordinates": [
+        30.044400215148926,
+        31.23569965362549
+      ],
+      "date": "2011-12-17"
+    },
+    "923EGY": {
+      "eventId": "923EGY",
+      "fatalities": 36,
+      "coordinates": [
+        30.050000190734863,
+        31.25
+      ],
+      "date": "2011-10-08"
+    },
+    "817EGY": {
+      "eventId": "817EGY",
+      "fatalities": 12,
+      "coordinates": [
+        31.039199829101562,
+        30.46909999847412
+      ],
+      "date": "2011-03-16"
+    },
+    "615EGY": {
+      "eventId": "615EGY",
+      "fatalities": 23,
+      "coordinates": [
+        31.198100090026855,
+        29.91919994354248
+      ],
+      "date": "2011-01-01"
+    },
+    "773EGY": {
+      "eventId": "773EGY",
+      "fatalities": 10,
+      "coordinates": [
+        31.131600379943848,
+        33.798399925231934
+      ],
+      "date": "2011-02-13"
+    },
+    "705EGY": {
+      "eventId": "705EGY",
+      "fatalities": 6,
+      "coordinates": [
+        30.044400215148926,
+        31.23569965362549
+      ],
+      "date": "2011-02-03"
+    },
+    "687EGY": {
+      "eventId": "687EGY",
+      "fatalities": 10,
+      "coordinates": [
+        30.050000190734863,
+        31.25
+      ],
+      "date": "2011-01-30"
+    },
+    "813EGY": {
+      "eventId": "813EGY",
+      "fatalities": 13,
+      "coordinates": [
+        30.021699905395508,
+        31.30329990386963
+      ],
+      "date": "2011-03-09"
+    },
+    "806EGY": {
+      "eventId": "806EGY",
+      "fatalities": 50,
+      "coordinates": [
+        31.198100090026855,
+        29.91919994354248
+      ],
+      "date": "2011-03-04"
+    },
+    "682EGY": {
+      "eventId": "682EGY",
+      "fatalities": 120,
+      "coordinates": [
+        29.97369956970215,
+        32.52630043029785
+      ],
+      "date": "2011-01-29"
+    },
+    "673EGY": {
+      "eventId": "673EGY",
+      "fatalities": 120,
+      "coordinates": [
+        31.198100090026855,
+        29.91919994354248
+      ],
+      "date": "2011-01-29"
+    },
+    "665EGY": {
+      "eventId": "665EGY",
+      "fatalities": 120,
+      "coordinates": [
+        29.97369956970215,
+        32.52630043029785
+      ],
+      "date": "2011-01-28"
+    },
+    "662EGY": {
+      "eventId": "662EGY",
+      "fatalities": 120,
+      "coordinates": [
+        31.198100090026855,
+        29.91919994354248
+      ],
+      "date": "2011-01-28"
+    },
+    "810EGY": {
+      "eventId": "810EGY",
+      "fatalities": 12,
+      "coordinates": [
+        30.021699905395508,
+        31.30329990386963
+      ],
+      "date": "2011-03-08"
+    },
+    "663EGY": {
+      "eventId": "663EGY",
+      "fatalities": 120,
+      "coordinates": [
+        30.044400215148926,
+        31.23569965362549
+      ],
+      "date": "2011-01-28"
+    },
+    "683EGY": {
+      "eventId": "683EGY",
+      "fatalities": 123,
+      "coordinates": [
+        30.077099800109863,
+        31.285900115966797
+      ],
+      "date": "2011-01-29"
+    },
+    "946EGY": {
+      "eventId": "946EGY",
+      "fatalities": 11,
+      "coordinates": [
+        30.044400215148926,
+        31.23569965362549
+      ],
+      "date": "2011-11-20"
+    },
+    "689EGY": {
+      "eventId": "689EGY",
+      "fatalities": 8,
+      "coordinates": [
+        30.249500274658203,
+        31.35449981689453
+      ],
+      "date": "2011-01-30"
+    },
+    "752EGY": {
+      "eventId": "752EGY",
+      "fatalities": 5,
+      "coordinates": [
+        25.324000358581543,
+        30.57900047302246
+      ],
+      "date": "2011-02-09"
+    },
+    "707EGY": {
+      "eventId": "707EGY",
+      "fatalities": 5,
+      "coordinates": [
+        30.044400215148926,
+        31.23569965362549
+      ],
+      "date": "2011-02-03"
+    },
+    "969EGY": {
+      "eventId": "969EGY",
+      "fatalities": 8,
+      "coordinates": [
+        30.050000190734863,
+        31.25
+      ],
+      "date": "2011-12-16"
+    },
+    "674EGY": {
+      "eventId": "674EGY",
+      "fatalities": 10,
+      "coordinates": [
+        29.074399948120117,
+        31.097800254821777
+      ],
+      "date": "2011-01-29"
+    },
+    "835EGY": {
+      "eventId": "835EGY",
+      "fatalities": 12,
+      "coordinates": [
+        30.076199531555176,
+        31.206700325012207
+      ],
+      "date": "2011-05-07"
+    },
+    "679EGY": {
+      "eventId": "679EGY",
+      "fatalities": 51,
+      "coordinates": [
+        30.604299545288086,
+        32.27229976654053
+      ],
+      "date": "2011-01-29"
+    },
+    "639EGY": {
+      "eventId": "639EGY",
+      "fatalities": 6,
+      "coordinates": [
+        30.044400215148926,
+        31.23569965362549
+      ],
+      "date": "2011-01-25"
+    }
+  },
+  "FUTURE": {
+    "1010EGY": {
+      "eventId": "1010EGY",
+      "fatalities": 10,
+      "coordinates": [
+        30.050000190734863,
+        31.25
+      ],
+      "date": "2012-02-03"
+    },
+    "1144EGY": {
+      "eventId": "1144EGY",
+      "fatalities": 16,
+      "coordinates": [
+        31.287799835205078,
+        34.236900329589844
+      ],
+      "date": "2012-08-05"
+    },
+    "1053EGY": {
+      "eventId": "1053EGY",
+      "fatalities": 9,
+      "coordinates": [
+        30.050000190734863,
+        31.25
+      ],
+      "date": "2012-05-02"
+    },
+    "1086EGY": {
+      "eventId": "1086EGY",
+      "fatalities": 12,
+      "coordinates": [
+        24.36460018157959,
+        32.90620040893555
+      ],
+      "date": "2012-06-10"
+    },
+    "1052EGY": {
+      "eventId": "1052EGY",
+      "fatalities": 11,
+      "coordinates": [
+        30.050000190734863,
+        31.25
+      ],
+      "date": "2012-05-02"
+    },
+    "1366EGY": {
+      "eventId": "1366EGY",
+      "fatalities": 7,
+      "coordinates": [
+        30.108799934387207,
+        31.379199981689453
+      ],
+      "date": "2012-12-05"
+    },
+    "1222EGY": {
+      "eventId": "1222EGY",
+      "fatalities": 21,
+      "coordinates": [
+        31.131600379943848,
+        33.798399925231934
+      ],
+      "date": "2012-10-08"
+    },
+    "1146EGY": {
+      "eventId": "1146EGY",
+      "fatalities": 5,
+      "coordinates": [
+        31.287799835205078,
+        34.236900329589844
+      ],
+      "date": "2012-08-06"
+    },
+    "1159EGY": {
+      "eventId": "1159EGY",
+      "fatalities": 6,
+      "coordinates": [
+        31.109999656677246,
+        34.14690017700195
+      ],
+      "date": "2012-08-12"
+    }
+  }
+}

@@ -1,0 +1,2851 @@
+{
+  "FATALITIES": [
+    {
+      "fatalities": 0,
+      "events": 91354
+    },
+    {
+      "fatalities": 1,
+      "events": 13038
+    },
+    {
+      "fatalities": 2,
+      "events": 5676
+    },
+    {
+      "fatalities": 3,
+      "events": 3288
+    },
+    {
+      "fatalities": 4,
+      "events": 2226
+    },
+    {
+      "fatalities": 5,
+      "events": 1997
+    },
+    {
+      "fatalities": 6,
+      "events": 1208
+    },
+    {
+      "fatalities": 7,
+      "events": 1031
+    },
+    {
+      "fatalities": 8,
+      "events": 733
+    },
+    {
+      "fatalities": 9,
+      "events": 549
+    },
+    {
+      "fatalities": 10,
+      "events": 1571
+    },
+    {
+      "fatalities": 11,
+      "events": 446
+    },
+    {
+      "fatalities": 12,
+      "events": 552
+    },
+    {
+      "fatalities": 13,
+      "events": 323
+    },
+    {
+      "fatalities": 14,
+      "events": 274
+    },
+    {
+      "fatalities": 15,
+      "events": 407
+    },
+    {
+      "fatalities": 16,
+      "events": 233
+    },
+    {
+      "fatalities": 17,
+      "events": 232
+    },
+    {
+      "fatalities": 18,
+      "events": 212
+    },
+    {
+      "fatalities": 19,
+      "events": 138
+    },
+    {
+      "fatalities": 20,
+      "events": 488
+    },
+    {
+      "fatalities": 21,
+      "events": 120
+    },
+    {
+      "fatalities": 22,
+      "events": 157
+    },
+    {
+      "fatalities": 23,
+      "events": 94
+    },
+    {
+      "fatalities": 24,
+      "events": 127
+    },
+    {
+      "fatalities": 25,
+      "events": 188
+    },
+    {
+      "fatalities": 26,
+      "events": 96
+    },
+    {
+      "fatalities": 27,
+      "events": 71
+    },
+    {
+      "fatalities": 28,
+      "events": 69
+    },
+    {
+      "fatalities": 29,
+      "events": 48
+    },
+    {
+      "fatalities": 30,
+      "events": 236
+    },
+    {
+      "fatalities": 31,
+      "events": 59
+    },
+    {
+      "fatalities": 32,
+      "events": 52
+    },
+    {
+      "fatalities": 33,
+      "events": 54
+    },
+    {
+      "fatalities": 34,
+      "events": 58
+    },
+    {
+      "fatalities": 35,
+      "events": 55
+    },
+    {
+      "fatalities": 36,
+      "events": 53
+    },
+    {
+      "fatalities": 37,
+      "events": 49
+    },
+    {
+      "fatalities": 38,
+      "events": 49
+    },
+    {
+      "fatalities": 39,
+      "events": 30
+    },
+    {
+      "fatalities": 40,
+      "events": 133
+    },
+    {
+      "fatalities": 41,
+      "events": 28
+    },
+    {
+      "fatalities": 42,
+      "events": 30
+    },
+    {
+      "fatalities": 43,
+      "events": 29
+    },
+    {
+      "fatalities": 44,
+      "events": 24
+    },
+    {
+      "fatalities": 45,
+      "events": 33
+    },
+    {
+      "fatalities": 46,
+      "events": 11
+    },
+    {
+      "fatalities": 47,
+      "events": 29
+    },
+    {
+      "fatalities": 48,
+      "events": 19
+    },
+    {
+      "fatalities": 49,
+      "events": 13
+    },
+    {
+      "fatalities": 50,
+      "events": 178
+    },
+    {
+      "fatalities": 51,
+      "events": 24
+    },
+    {
+      "fatalities": 52,
+      "events": 21
+    },
+    {
+      "fatalities": 53,
+      "events": 19
+    },
+    {
+      "fatalities": 54,
+      "events": 18
+    },
+    {
+      "fatalities": 55,
+      "events": 10
+    },
+    {
+      "fatalities": 56,
+      "events": 17
+    },
+    {
+      "fatalities": 57,
+      "events": 35
+    },
+    {
+      "fatalities": 58,
+      "events": 20
+    },
+    {
+      "fatalities": 59,
+      "events": 7
+    },
+    {
+      "fatalities": 60,
+      "events": 66
+    },
+    {
+      "fatalities": 61,
+      "events": 7
+    },
+    {
+      "fatalities": 62,
+      "events": 21
+    },
+    {
+      "fatalities": 63,
+      "events": 20
+    },
+    {
+      "fatalities": 64,
+      "events": 14
+    },
+    {
+      "fatalities": 65,
+      "events": 11
+    },
+    {
+      "fatalities": 66,
+      "events": 12
+    },
+    {
+      "fatalities": 67,
+      "events": 12
+    },
+    {
+      "fatalities": 68,
+      "events": 9
+    },
+    {
+      "fatalities": 69,
+      "events": 8
+    },
+    {
+      "fatalities": 70,
+      "events": 51
+    },
+    {
+      "fatalities": 71,
+      "events": 11
+    },
+    {
+      "fatalities": 72,
+      "events": 10
+    },
+    {
+      "fatalities": 73,
+      "events": 6
+    },
+    {
+      "fatalities": 74,
+      "events": 9
+    },
+    {
+      "fatalities": 75,
+      "events": 17
+    },
+    {
+      "fatalities": 76,
+      "events": 10
+    },
+    {
+      "fatalities": 77,
+      "events": 4
+    },
+    {
+      "fatalities": 78,
+      "events": 7
+    },
+    {
+      "fatalities": 79,
+      "events": 5
+    },
+    {
+      "fatalities": 80,
+      "events": 44
+    },
+    {
+      "fatalities": 81,
+      "events": 6
+    },
+    {
+      "fatalities": 82,
+      "events": 6
+    },
+    {
+      "fatalities": 83,
+      "events": 8
+    },
+    {
+      "fatalities": 84,
+      "events": 9
+    },
+    {
+      "fatalities": 85,
+      "events": 7
+    },
+    {
+      "fatalities": 86,
+      "events": 3
+    },
+    {
+      "fatalities": 87,
+      "events": 6
+    },
+    {
+      "fatalities": 88,
+      "events": 4
+    },
+    {
+      "fatalities": 89,
+      "events": 1
+    },
+    {
+      "fatalities": 90,
+      "events": 13
+    },
+    {
+      "fatalities": 91,
+      "events": 2
+    },
+    {
+      "fatalities": 92,
+      "events": 1
+    },
+    {
+      "fatalities": 93,
+      "events": 12
+    },
+    {
+      "fatalities": 94,
+      "events": 2
+    },
+    {
+      "fatalities": 95,
+      "events": 6
+    },
+    {
+      "fatalities": 96,
+      "events": 5
+    },
+    {
+      "fatalities": 97,
+      "events": 7
+    },
+    {
+      "fatalities": 98,
+      "events": 7
+    },
+    {
+      "fatalities": 99,
+      "events": 4
+    },
+    {
+      "fatalities": 100,
+      "events": 201
+    },
+    {
+      "fatalities": 101,
+      "events": 4
+    },
+    {
+      "fatalities": 102,
+      "events": 7
+    },
+    {
+      "fatalities": 103,
+      "events": 2
+    },
+    {
+      "fatalities": 104,
+      "events": 4
+    },
+    {
+      "fatalities": 105,
+      "events": 6
+    },
+    {
+      "fatalities": 106,
+      "events": 2
+    },
+    {
+      "fatalities": 107,
+      "events": 5
+    },
+    {
+      "fatalities": 108,
+      "events": 4
+    },
+    {
+      "fatalities": 109,
+      "events": 2
+    },
+    {
+      "fatalities": 110,
+      "events": 5
+    },
+    {
+      "fatalities": 111,
+      "events": 4
+    },
+    {
+      "fatalities": 112,
+      "events": 2
+    },
+    {
+      "fatalities": 113,
+      "events": 2
+    },
+    {
+      "fatalities": 114,
+      "events": 2
+    },
+    {
+      "fatalities": 115,
+      "events": 5
+    },
+    {
+      "fatalities": 117,
+      "events": 5
+    },
+    {
+      "fatalities": 118,
+      "events": 2
+    },
+    {
+      "fatalities": 119,
+      "events": 1
+    },
+    {
+      "fatalities": 120,
+      "events": 17
+    },
+    {
+      "fatalities": 122,
+      "events": 4
+    },
+    {
+      "fatalities": 123,
+      "events": 2
+    },
+    {
+      "fatalities": 124,
+      "events": 2
+    },
+    {
+      "fatalities": 125,
+      "events": 22
+    },
+    {
+      "fatalities": 126,
+      "events": 5
+    },
+    {
+      "fatalities": 127,
+      "events": 3
+    },
+    {
+      "fatalities": 128,
+      "events": 2
+    },
+    {
+      "fatalities": 129,
+      "events": 3
+    },
+    {
+      "fatalities": 130,
+      "events": 3
+    },
+    {
+      "fatalities": 131,
+      "events": 2
+    },
+    {
+      "fatalities": 132,
+      "events": 1
+    },
+    {
+      "fatalities": 133,
+      "events": 2
+    },
+    {
+      "fatalities": 134,
+      "events": 2
+    },
+    {
+      "fatalities": 136,
+      "events": 4
+    },
+    {
+      "fatalities": 137,
+      "events": 3
+    },
+    {
+      "fatalities": 139,
+      "events": 2
+    },
+    {
+      "fatalities": 140,
+      "events": 5
+    },
+    {
+      "fatalities": 141,
+      "events": 1
+    },
+    {
+      "fatalities": 142,
+      "events": 2
+    },
+    {
+      "fatalities": 143,
+      "events": 3
+    },
+    {
+      "fatalities": 144,
+      "events": 1
+    },
+    {
+      "fatalities": 145,
+      "events": 2
+    },
+    {
+      "fatalities": 147,
+      "events": 1
+    },
+    {
+      "fatalities": 148,
+      "events": 1
+    },
+    {
+      "fatalities": 150,
+      "events": 34
+    },
+    {
+      "fatalities": 151,
+      "events": 2
+    },
+    {
+      "fatalities": 153,
+      "events": 1
+    },
+    {
+      "fatalities": 155,
+      "events": 1
+    },
+    {
+      "fatalities": 156,
+      "events": 3
+    },
+    {
+      "fatalities": 158,
+      "events": 3
+    },
+    {
+      "fatalities": 159,
+      "events": 1
+    },
+    {
+      "fatalities": 160,
+      "events": 1
+    },
+    {
+      "fatalities": 161,
+      "events": 1
+    },
+    {
+      "fatalities": 162,
+      "events": 1
+    },
+    {
+      "fatalities": 163,
+      "events": 6
+    },
+    {
+      "fatalities": 165,
+      "events": 2
+    },
+    {
+      "fatalities": 166,
+      "events": 5
+    },
+    {
+      "fatalities": 167,
+      "events": 9
+    },
+    {
+      "fatalities": 168,
+      "events": 4
+    },
+    {
+      "fatalities": 170,
+      "events": 3
+    },
+    {
+      "fatalities": 174,
+      "events": 1
+    },
+    {
+      "fatalities": 175,
+      "events": 2
+    },
+    {
+      "fatalities": 176,
+      "events": 1
+    },
+    {
+      "fatalities": 180,
+      "events": 2
+    },
+    {
+      "fatalities": 183,
+      "events": 2
+    },
+    {
+      "fatalities": 185,
+      "events": 2
+    },
+    {
+      "fatalities": 186,
+      "events": 1
+    },
+    {
+      "fatalities": 187,
+      "events": 2
+    },
+    {
+      "fatalities": 188,
+      "events": 1
+    },
+    {
+      "fatalities": 189,
+      "events": 2
+    },
+    {
+      "fatalities": 190,
+      "events": 1
+    },
+    {
+      "fatalities": 192,
+      "events": 3
+    },
+    {
+      "fatalities": 194,
+      "events": 1
+    },
+    {
+      "fatalities": 195,
+      "events": 1
+    },
+    {
+      "fatalities": 197,
+      "events": 1
+    },
+    {
+      "fatalities": 200,
+      "events": 41
+    },
+    {
+      "fatalities": 202,
+      "events": 1
+    },
+    {
+      "fatalities": 204,
+      "events": 2
+    },
+    {
+      "fatalities": 205,
+      "events": 1
+    },
+    {
+      "fatalities": 207,
+      "events": 2
+    },
+    {
+      "fatalities": 208,
+      "events": 1
+    },
+    {
+      "fatalities": 210,
+      "events": 2
+    },
+    {
+      "fatalities": 212,
+      "events": 1
+    },
+    {
+      "fatalities": 213,
+      "events": 3
+    },
+    {
+      "fatalities": 215,
+      "events": 2
+    },
+    {
+      "fatalities": 220,
+      "events": 2
+    },
+    {
+      "fatalities": 224,
+      "events": 1
+    },
+    {
+      "fatalities": 225,
+      "events": 4
+    },
+    {
+      "fatalities": 226,
+      "events": 2
+    },
+    {
+      "fatalities": 227,
+      "events": 3
+    },
+    {
+      "fatalities": 230,
+      "events": 3
+    },
+    {
+      "fatalities": 231,
+      "events": 1
+    },
+    {
+      "fatalities": 236,
+      "events": 1
+    },
+    {
+      "fatalities": 237,
+      "events": 1
+    },
+    {
+      "fatalities": 240,
+      "events": 2
+    },
+    {
+      "fatalities": 244,
+      "events": 2
+    },
+    {
+      "fatalities": 247,
+      "events": 2
+    },
+    {
+      "fatalities": 248,
+      "events": 1
+    },
+    {
+      "fatalities": 250,
+      "events": 9
+    },
+    {
+      "fatalities": 251,
+      "events": 1
+    },
+    {
+      "fatalities": 257,
+      "events": 1
+    },
+    {
+      "fatalities": 259,
+      "events": 2
+    },
+    {
+      "fatalities": 260,
+      "events": 1
+    },
+    {
+      "fatalities": 264,
+      "events": 2
+    },
+    {
+      "fatalities": 266,
+      "events": 1
+    },
+    {
+      "fatalities": 267,
+      "events": 1
+    },
+    {
+      "fatalities": 272,
+      "events": 1
+    },
+    {
+      "fatalities": 285,
+      "events": 2
+    },
+    {
+      "fatalities": 286,
+      "events": 4
+    },
+    {
+      "fatalities": 300,
+      "events": 34
+    },
+    {
+      "fatalities": 315,
+      "events": 3
+    },
+    {
+      "fatalities": 318,
+      "events": 1
+    },
+    {
+      "fatalities": 319,
+      "events": 1
+    },
+    {
+      "fatalities": 321,
+      "events": 5
+    },
+    {
+      "fatalities": 322,
+      "events": 1
+    },
+    {
+      "fatalities": 325,
+      "events": 2
+    },
+    {
+      "fatalities": 330,
+      "events": 4
+    },
+    {
+      "fatalities": 333,
+      "events": 7
+    },
+    {
+      "fatalities": 334,
+      "events": 2
+    },
+    {
+      "fatalities": 345,
+      "events": 1
+    },
+    {
+      "fatalities": 350,
+      "events": 5
+    },
+    {
+      "fatalities": 354,
+      "events": 1
+    },
+    {
+      "fatalities": 370,
+      "events": 2
+    },
+    {
+      "fatalities": 400,
+      "events": 17
+    },
+    {
+      "fatalities": 404,
+      "events": 1
+    },
+    {
+      "fatalities": 408,
+      "events": 1
+    },
+    {
+      "fatalities": 409,
+      "events": 1
+    },
+    {
+      "fatalities": 411,
+      "events": 1
+    },
+    {
+      "fatalities": 420,
+      "events": 2
+    },
+    {
+      "fatalities": 446,
+      "events": 1
+    },
+    {
+      "fatalities": 450,
+      "events": 2
+    },
+    {
+      "fatalities": 475,
+      "events": 1
+    },
+    {
+      "fatalities": 500,
+      "events": 8
+    },
+    {
+      "fatalities": 525,
+      "events": 1
+    },
+    {
+      "fatalities": 530,
+      "events": 2
+    },
+    {
+      "fatalities": 543,
+      "events": 1
+    },
+    {
+      "fatalities": 600,
+      "events": 7
+    },
+    {
+      "fatalities": 631,
+      "events": 1
+    },
+    {
+      "fatalities": 650,
+      "events": 1
+    },
+    {
+      "fatalities": 700,
+      "events": 6
+    },
+    {
+      "fatalities": 718,
+      "events": 1
+    },
+    {
+      "fatalities": 800,
+      "events": 1
+    },
+    {
+      "fatalities": 963,
+      "events": 1
+    },
+    {
+      "fatalities": 1000,
+      "events": 121
+    },
+    {
+      "fatalities": 1037,
+      "events": 1
+    },
+    {
+      "fatalities": 1172,
+      "events": 1
+    },
+    {
+      "fatalities": 1300,
+      "events": 1
+    },
+    {
+      "fatalities": 1369,
+      "events": 73
+    },
+    {
+      "fatalities": 5400,
+      "events": 1
+    },
+    {
+      "fatalities": 25000,
+      "events": 1
+    }
+  ],
+  "ACTOR2": [
+    {
+      "type": "no actor specified",
+      "code": 0,
+      "events": 35180
+    },
+    {
+      "type": "government or mutinous force",
+      "code": 1,
+      "events": 21453
+    },
+    {
+      "type": "rebel force",
+      "code": 2,
+      "events": 16855
+    },
+    {
+      "type": "political militia",
+      "code": 3,
+      "events": 12427
+    },
+    {
+      "type": "ethnic militia",
+      "code": 4,
+      "events": 4764
+    },
+    {
+      "type": "rioters",
+      "code": 5,
+      "events": 2197
+    },
+    {
+      "type": "protesters",
+      "code": 6,
+      "events": 746
+    },
+    {
+      "type": "civilians",
+      "code": 7,
+      "events": 33816
+    },
+    {
+      "type": "outside/external force (e.g. un)",
+      "code": 8,
+      "events": 2203
+    }
+  ],
+  "INTERACTION": [
+    {
+      "type": "sole military action",
+      "code": 10,
+      "events": 1548
+    },
+    {
+      "type": "military versus military",
+      "code": 11,
+      "events": 1330
+    },
+    {
+      "type": "military versus rebels",
+      "code": 12,
+      "events": 16706
+    },
+    {
+      "type": "military versus political militia",
+      "code": 13,
+      "events": 11798
+    },
+    {
+      "type": "military versus communal militia (these include all 'ethnic' militias)",
+      "code": 14,
+      "events": 1083
+    },
+    {
+      "type": "military versus rioters",
+      "code": 15,
+      "events": 5631
+    },
+    {
+      "type": "military versus protesters",
+      "code": 16,
+      "events": 3297
+    },
+    {
+      "type": "military versus civilians",
+      "code": 17,
+      "events": 6973
+    },
+    {
+      "type": "military versus other",
+      "code": 18,
+      "events": 1056
+    },
+    {
+      "type": "sole rebel action (e.g. base establishment)",
+      "code": 20,
+      "events": 2867
+    },
+    {
+      "type": "rebels versus rebels",
+      "code": 22,
+      "events": 505
+    },
+    {
+      "type": "rebels versus political miliita",
+      "code": 23,
+      "events": 1952
+    },
+    {
+      "type": "rebels versus communal militia",
+      "code": 24,
+      "events": 342
+    },
+    {
+      "type": "rebels versus rioters",
+      "code": 25,
+      "events": 22
+    },
+    {
+      "type": "rebels versus protesters",
+      "code": 26,
+      "events": 18
+    },
+    {
+      "type": "rebels versus civilians",
+      "code": 27,
+      "events": 8532
+    },
+    {
+      "type": "rebels versus others",
+      "code": 28,
+      "events": 2835
+    },
+    {
+      "type": "sole political militia action",
+      "code": 30,
+      "events": 2162
+    },
+    {
+      "type": "political militia versus political militia",
+      "code": 33,
+      "events": 1829
+    },
+    {
+      "type": "political militia versus communal militia",
+      "code": 34,
+      "events": 577
+    },
+    {
+      "type": "political militia versus rioters",
+      "code": 35,
+      "events": 118
+    },
+    {
+      "type": "political militia versus protesters",
+      "code": 36,
+      "events": 103
+    },
+    {
+      "type": "political militia versus civilians",
+      "code": 37,
+      "events": 17991
+    },
+    {
+      "type": "political militia versus others",
+      "code": 38,
+      "events": 1375
+    },
+    {
+      "type": "sole communal militia action",
+      "code": 40,
+      "events": 166
+    },
+    {
+      "type": "communal militia versus communal militia",
+      "code": 44,
+      "events": 3251
+    },
+    {
+      "type": "communal militia versus rioters",
+      "code": 45,
+      "events": 21
+    },
+    {
+      "type": "communal militia versus protesters",
+      "code": 46,
+      "events": 6
+    },
+    {
+      "type": "communal militia versus civilians",
+      "code": 47,
+      "events": 3639
+    },
+    {
+      "type": "communal militia versus other",
+      "code": 48,
+      "events": 95
+    },
+    {
+      "type": "sole rioter action",
+      "code": 50,
+      "events": 4654
+    },
+    {
+      "type": "rioters versus rioters",
+      "code": 55,
+      "events": 1289
+    },
+    {
+      "type": "rioters versus protesters",
+      "code": 56,
+      "events": 75
+    },
+    {
+      "type": "rioters versus civilians",
+      "code": 57,
+      "events": 862
+    },
+    {
+      "type": "rioters versus others",
+      "code": 58,
+      "events": 173
+    },
+    {
+      "type": "sole protester action",
+      "code": 60,
+      "events": 22980
+    },
+    {
+      "type": "protesters versus protesters",
+      "code": 66,
+      "events": 77
+    },
+    {
+      "type": "protesters versus civilians",
+      "code": 67,
+      "events": 2
+    },
+    {
+      "type": "protesters versus other",
+      "code": 68,
+      "events": 63
+    },
+    {
+      "type": "other actor versus civilians",
+      "code": 78,
+      "events": 761
+    },
+    {
+      "type": "sole other action",
+      "code": 80,
+      "events": 789
+    },
+    {
+      "type": "military versus miltary (should be code 11 in most cases)",
+      "code": 88,
+      "events": 65
+    },
+    {
+      "type": "sole civilian action",
+      "code": 70,
+      "events": 13
+    },
+    {
+      "type": "civilians versus civilians",
+      "code": 77,
+      "events": 10
+    }
+  ],
+  "ACTOR1": [
+    {
+      "type": "government or mutinous force",
+      "code": 1,
+      "events": 29295
+    },
+    {
+      "type": "rebel force",
+      "code": 2,
+      "events": 17430
+    },
+    {
+      "type": "political militia",
+      "code": 3,
+      "events": 27309
+    },
+    {
+      "type": "ethnic militia",
+      "code": 4,
+      "events": 7667
+    },
+    {
+      "type": "rioters",
+      "code": 5,
+      "events": 11935
+    },
+    {
+      "type": "protesters",
+      "code": 6,
+      "events": 25952
+    },
+    {
+      "type": "civilians",
+      "code": 7,
+      "events": 4978
+    },
+    {
+      "type": "outside/external force (e.g. un)",
+      "code": 8,
+      "events": 5075
+    }
+  ],
+  "COUNTRY": [
+    {
+      "name": "Afghanistan",
+      "code": "AFG",
+      "events": 47
+    },
+    {
+      "name": "Albania",
+      "code": "ALB",
+      "events": 3
+    },
+    {
+      "name": "Algeria",
+      "code": "DZA",
+      "events": 3742
+    },
+    {
+      "name": "Angola",
+      "code": "AGO",
+      "events": 3025
+    },
+    {
+      "name": "Bangladesh",
+      "code": "BGD",
+      "events": 1428
+    },
+    {
+      "name": "Benin",
+      "code": "BEN",
+      "events": 118
+    },
+    {
+      "name": "Botswana",
+      "code": "BWA",
+      "events": 45
+    },
+    {
+      "name": "Burkina Faso",
+      "code": "BFA",
+      "events": 516
+    },
+    {
+      "name": "Burundi",
+      "code": "BDI",
+      "events": 3531
+    },
+    {
+      "name": "Cambodia",
+      "code": "KHM",
+      "events": 125
+    },
+    {
+      "name": "Cameroon",
+      "code": "CMR",
+      "events": 522
+    },
+    {
+      "name": "Central African Republic",
+      "code": "CAF",
+      "events": 2917
+    },
+    {
+      "name": "Chad",
+      "code": "TCD",
+      "events": 618
+    },
+    {
+      "name": "Democratic Republic of Congo",
+      "code": "COD",
+      "events": 9912
+    },
+    {
+      "name": "Djibouti",
+      "code": "DJI",
+      "events": 101
+    },
+    {
+      "name": "Egypt",
+      "code": "EGY",
+      "events": 7013
+    },
+    {
+      "name": "Equatorial Guinea",
+      "code": "GNQ",
+      "events": 39
+    },
+    {
+      "name": "Eritrea",
+      "code": "ERI",
+      "events": 396
+    },
+    {
+      "name": "Ethiopia",
+      "code": "ETH",
+      "events": 2265
+    },
+    {
+      "name": "Gabon",
+      "code": "GAB",
+      "events": 136
+    },
+    {
+      "name": "Gambia",
+      "code": "GMB",
+      "events": 125
+    },
+    {
+      "name": "Ghana",
+      "code": "GHA",
+      "events": 383
+    },
+    {
+      "name": "Guinea",
+      "code": "GIN",
+      "events": 764
+    },
+    {
+      "name": "Guinea-Bissau",
+      "code": "GNB",
+      "events": 209
+    },
+    {
+      "name": "India",
+      "code": "IND",
+      "events": 5080
+    },
+    {
+      "name": "Ivory Coast",
+      "code": "CIV",
+      "events": 1565
+    },
+    {
+      "name": "Kenya",
+      "code": "KEN",
+      "events": 5057
+    },
+    {
+      "name": "Laos",
+      "code": "LAO",
+      "events": 9
+    },
+    {
+      "name": "Lesotho",
+      "code": "LSO",
+      "events": 110
+    },
+    {
+      "name": "Liberia",
+      "code": "LBR",
+      "events": 1211
+    },
+    {
+      "name": "Libya",
+      "code": "LBY",
+      "events": 4380
+    },
+    {
+      "name": "Madagascar",
+      "code": "MDG",
+      "events": 777
+    },
+    {
+      "name": "Malawi",
+      "code": "MWI",
+      "events": 283
+    },
+    {
+      "name": "Mali",
+      "code": "MLI",
+      "events": 1159
+    },
+    {
+      "name": "Mauritania",
+      "code": "MRT",
+      "events": 397
+    },
+    {
+      "name": "Morocco",
+      "code": "MAR",
+      "events": 920
+    },
+    {
+      "name": "Mozambique",
+      "code": "MOZ",
+      "events": 612
+    },
+    {
+      "name": "Myanmar",
+      "code": "MMR",
+      "events": 513
+    },
+    {
+      "name": "Namibia",
+      "code": "NAM",
+      "events": 655
+    },
+    {
+      "name": "Nepal",
+      "code": "NPL",
+      "events": 781
+    },
+    {
+      "name": "Niger",
+      "code": "NER",
+      "events": 441
+    },
+    {
+      "name": "Nigeria",
+      "code": "NGA",
+      "events": 8679
+    },
+    {
+      "name": "Pakistan",
+      "code": "PAK",
+      "events": 1797
+    },
+    {
+      "name": "Republic of Congo",
+      "code": "COG",
+      "events": 370
+    },
+    {
+      "name": "Rwanda",
+      "code": "RWA",
+      "events": 613
+    },
+    {
+      "name": "Senegal",
+      "code": "SEN",
+      "events": 944
+    },
+    {
+      "name": "Sierra Leone",
+      "code": "SLE",
+      "events": 4605
+    },
+    {
+      "name": "Somalia",
+      "code": "SOM",
+      "events": 17708
+    },
+    {
+      "name": "South Africa",
+      "code": "ZAF",
+      "events": 7557
+    },
+    {
+      "name": "South Sudan",
+      "code": "SSD",
+      "events": 2479
+    },
+    {
+      "name": "Sri Lanka",
+      "code": "LKA",
+      "events": 117
+    },
+    {
+      "name": "Sudan",
+      "code": "SDN",
+      "events": 8357
+    },
+    {
+      "name": "Swaziland",
+      "code": "SWZ",
+      "events": 183
+    },
+    {
+      "name": "Tanzania",
+      "code": "TZA",
+      "events": 644
+    },
+    {
+      "name": "Thailand",
+      "code": "THA",
+      "events": 231
+    },
+    {
+      "name": "Togo",
+      "code": "TGO",
+      "events": 225
+    },
+    {
+      "name": "Tunisia",
+      "code": "TUN",
+      "events": 2149
+    },
+    {
+      "name": "Uganda",
+      "code": "UGA",
+      "events": 4639
+    },
+    {
+      "name": "United States of America",
+      "code": "USA",
+      "events": 1
+    },
+    {
+      "name": "Vietnam",
+      "code": "VNM",
+      "events": 58
+    },
+    {
+      "name": "Zambia",
+      "code": "ZMB",
+      "events": 1020
+    },
+    {
+      "name": "Zimbabwe",
+      "code": "ZWE",
+      "events": 5387
+    }
+  ],
+  "EVENTTYPE": [
+    {
+      "type": "riots/protests",
+      "code": 6,
+      "events": 38054
+    },
+    {
+      "type": "violence against civilians",
+      "code": 7,
+      "events": 34512
+    },
+    {
+      "type": "battle-government regains territory",
+      "code": 3,
+      "events": 1920
+    },
+    {
+      "type": "battle-no change of territory",
+      "code": 1,
+      "events": 35574
+    },
+    {
+      "type": "headquarters or base established",
+      "code": 4,
+      "events": 738
+    },
+    {
+      "type": "non-violent transfer of territory",
+      "code": 8,
+      "events": 2168
+    },
+    {
+      "type": "non-violent activity by a conflict actor",
+      "code": 5,
+      "events": 112
+    },
+    {
+      "type": "search, seize, exploit",
+      "code": 101,
+      "events": 39
+    },
+    {
+      "type": "battle-non-state actors overtake territory",
+      "code": 2,
+      "events": 1
+    },
+    {
+      "type": "special reconnaissance",
+      "code": 103,
+      "events": 2
+    },
+    {
+      "type": "counter terrorism",
+      "code": 106,
+      "events": 2
+    },
+    {
+      "type": "direct action",
+      "code": 102,
+      "events": 8
+    },
+    {
+      "type": "foreign internal defense",
+      "code": 104,
+      "events": 1
+    }
+  ],
+  "DATE": [
+    {
+      "mn": 1,
+      "yr": 1997,
+      "events": 224
+    },
+    {
+      "mn": 9,
+      "yr": 1997,
+      "events": 314
+    },
+    {
+      "mn": 6,
+      "yr": 1997,
+      "events": 438
+    },
+    {
+      "mn": 5,
+      "yr": 1997,
+      "events": 356
+    },
+    {
+      "mn": 11,
+      "yr": 1997,
+      "events": 205
+    },
+    {
+      "mn": 4,
+      "yr": 1997,
+      "events": 207
+    },
+    {
+      "mn": 10,
+      "yr": 1997,
+      "events": 259
+    },
+    {
+      "mn": 7,
+      "yr": 1997,
+      "events": 317
+    },
+    {
+      "mn": 3,
+      "yr": 1997,
+      "events": 255
+    },
+    {
+      "mn": 12,
+      "yr": 1997,
+      "events": 233
+    },
+    {
+      "mn": 2,
+      "yr": 1997,
+      "events": 190
+    },
+    {
+      "mn": 8,
+      "yr": 1997,
+      "events": 302
+    },
+    {
+      "mn": 11,
+      "yr": 1998,
+      "events": 335
+    },
+    {
+      "mn": 5,
+      "yr": 1998,
+      "events": 331
+    },
+    {
+      "mn": 7,
+      "yr": 1998,
+      "events": 263
+    },
+    {
+      "mn": 10,
+      "yr": 1998,
+      "events": 424
+    },
+    {
+      "mn": 4,
+      "yr": 1998,
+      "events": 351
+    },
+    {
+      "mn": 8,
+      "yr": 1998,
+      "events": 291
+    },
+    {
+      "mn": 9,
+      "yr": 1998,
+      "events": 321
+    },
+    {
+      "mn": 12,
+      "yr": 1998,
+      "events": 688
+    },
+    {
+      "mn": 3,
+      "yr": 1998,
+      "events": 484
+    },
+    {
+      "mn": 1,
+      "yr": 1998,
+      "events": 301
+    },
+    {
+      "mn": 6,
+      "yr": 1998,
+      "events": 351
+    },
+    {
+      "mn": 2,
+      "yr": 1998,
+      "events": 452
+    },
+    {
+      "mn": 11,
+      "yr": 1999,
+      "events": 340
+    },
+    {
+      "mn": 12,
+      "yr": 1999,
+      "events": 344
+    },
+    {
+      "mn": 2,
+      "yr": 1999,
+      "events": 426
+    },
+    {
+      "mn": 6,
+      "yr": 1999,
+      "events": 388
+    },
+    {
+      "mn": 1,
+      "yr": 1999,
+      "events": 593
+    },
+    {
+      "mn": 4,
+      "yr": 1999,
+      "events": 402
+    },
+    {
+      "mn": 3,
+      "yr": 1999,
+      "events": 450
+    },
+    {
+      "mn": 8,
+      "yr": 1999,
+      "events": 454
+    },
+    {
+      "mn": 7,
+      "yr": 1999,
+      "events": 383
+    },
+    {
+      "mn": 9,
+      "yr": 1999,
+      "events": 415
+    },
+    {
+      "mn": 10,
+      "yr": 1999,
+      "events": 338
+    },
+    {
+      "mn": 5,
+      "yr": 1999,
+      "events": 441
+    },
+    {
+      "mn": 3,
+      "yr": 2000,
+      "events": 269
+    },
+    {
+      "mn": 7,
+      "yr": 2000,
+      "events": 310
+    },
+    {
+      "mn": 4,
+      "yr": 2000,
+      "events": 287
+    },
+    {
+      "mn": 11,
+      "yr": 2000,
+      "events": 341
+    },
+    {
+      "mn": 6,
+      "yr": 2000,
+      "events": 512
+    },
+    {
+      "mn": 9,
+      "yr": 2000,
+      "events": 379
+    },
+    {
+      "mn": 12,
+      "yr": 2000,
+      "events": 322
+    },
+    {
+      "mn": 1,
+      "yr": 2000,
+      "events": 363
+    },
+    {
+      "mn": 5,
+      "yr": 2000,
+      "events": 454
+    },
+    {
+      "mn": 2,
+      "yr": 2000,
+      "events": 278
+    },
+    {
+      "mn": 8,
+      "yr": 2000,
+      "events": 278
+    },
+    {
+      "mn": 10,
+      "yr": 2000,
+      "events": 417
+    },
+    {
+      "mn": 9,
+      "yr": 2001,
+      "events": 244
+    },
+    {
+      "mn": 7,
+      "yr": 2001,
+      "events": 338
+    },
+    {
+      "mn": 2,
+      "yr": 2001,
+      "events": 253
+    },
+    {
+      "mn": 8,
+      "yr": 2001,
+      "events": 233
+    },
+    {
+      "mn": 11,
+      "yr": 2001,
+      "events": 265
+    },
+    {
+      "mn": 12,
+      "yr": 2001,
+      "events": 241
+    },
+    {
+      "mn": 6,
+      "yr": 2001,
+      "events": 365
+    },
+    {
+      "mn": 3,
+      "yr": 2001,
+      "events": 342
+    },
+    {
+      "mn": 10,
+      "yr": 2001,
+      "events": 273
+    },
+    {
+      "mn": 1,
+      "yr": 2001,
+      "events": 273
+    },
+    {
+      "mn": 4,
+      "yr": 2001,
+      "events": 312
+    },
+    {
+      "mn": 5,
+      "yr": 2001,
+      "events": 375
+    },
+    {
+      "mn": 10,
+      "yr": 2002,
+      "events": 365
+    },
+    {
+      "mn": 7,
+      "yr": 2002,
+      "events": 385
+    },
+    {
+      "mn": 3,
+      "yr": 2002,
+      "events": 538
+    },
+    {
+      "mn": 12,
+      "yr": 2002,
+      "events": 372
+    },
+    {
+      "mn": 6,
+      "yr": 2002,
+      "events": 308
+    },
+    {
+      "mn": 8,
+      "yr": 2002,
+      "events": 325
+    },
+    {
+      "mn": 5,
+      "yr": 2002,
+      "events": 291
+    },
+    {
+      "mn": 1,
+      "yr": 2002,
+      "events": 403
+    },
+    {
+      "mn": 4,
+      "yr": 2002,
+      "events": 354
+    },
+    {
+      "mn": 11,
+      "yr": 2002,
+      "events": 257
+    },
+    {
+      "mn": 2,
+      "yr": 2002,
+      "events": 375
+    },
+    {
+      "mn": 9,
+      "yr": 2002,
+      "events": 415
+    },
+    {
+      "mn": 10,
+      "yr": 2003,
+      "events": 293
+    },
+    {
+      "mn": 4,
+      "yr": 2003,
+      "events": 292
+    },
+    {
+      "mn": 7,
+      "yr": 2003,
+      "events": 346
+    },
+    {
+      "mn": 2,
+      "yr": 2003,
+      "events": 359
+    },
+    {
+      "mn": 12,
+      "yr": 2003,
+      "events": 216
+    },
+    {
+      "mn": 3,
+      "yr": 2003,
+      "events": 429
+    },
+    {
+      "mn": 1,
+      "yr": 2003,
+      "events": 320
+    },
+    {
+      "mn": 9,
+      "yr": 2003,
+      "events": 207
+    },
+    {
+      "mn": 5,
+      "yr": 2003,
+      "events": 306
+    },
+    {
+      "mn": 11,
+      "yr": 2003,
+      "events": 310
+    },
+    {
+      "mn": 8,
+      "yr": 2003,
+      "events": 326
+    },
+    {
+      "mn": 6,
+      "yr": 2003,
+      "events": 421
+    },
+    {
+      "mn": 6,
+      "yr": 2004,
+      "events": 319
+    },
+    {
+      "mn": 7,
+      "yr": 2004,
+      "events": 268
+    },
+    {
+      "mn": 1,
+      "yr": 2004,
+      "events": 271
+    },
+    {
+      "mn": 8,
+      "yr": 2004,
+      "events": 199
+    },
+    {
+      "mn": 5,
+      "yr": 2004,
+      "events": 298
+    },
+    {
+      "mn": 12,
+      "yr": 2004,
+      "events": 235
+    },
+    {
+      "mn": 3,
+      "yr": 2004,
+      "events": 385
+    },
+    {
+      "mn": 10,
+      "yr": 2004,
+      "events": 205
+    },
+    {
+      "mn": 4,
+      "yr": 2004,
+      "events": 321
+    },
+    {
+      "mn": 2,
+      "yr": 2004,
+      "events": 265
+    },
+    {
+      "mn": 9,
+      "yr": 2004,
+      "events": 179
+    },
+    {
+      "mn": 11,
+      "yr": 2004,
+      "events": 270
+    },
+    {
+      "mn": 3,
+      "yr": 2005,
+      "events": 269
+    },
+    {
+      "mn": 2,
+      "yr": 2005,
+      "events": 242
+    },
+    {
+      "mn": 9,
+      "yr": 2005,
+      "events": 216
+    },
+    {
+      "mn": 4,
+      "yr": 2005,
+      "events": 280
+    },
+    {
+      "mn": 8,
+      "yr": 2005,
+      "events": 176
+    },
+    {
+      "mn": 12,
+      "yr": 2005,
+      "events": 188
+    },
+    {
+      "mn": 10,
+      "yr": 2005,
+      "events": 259
+    },
+    {
+      "mn": 6,
+      "yr": 2005,
+      "events": 228
+    },
+    {
+      "mn": 5,
+      "yr": 2005,
+      "events": 261
+    },
+    {
+      "mn": 1,
+      "yr": 2005,
+      "events": 237
+    },
+    {
+      "mn": 11,
+      "yr": 2005,
+      "events": 263
+    },
+    {
+      "mn": 7,
+      "yr": 2005,
+      "events": 246
+    },
+    {
+      "mn": 9,
+      "yr": 2006,
+      "events": 187
+    },
+    {
+      "mn": 1,
+      "yr": 2006,
+      "events": 216
+    },
+    {
+      "mn": 2,
+      "yr": 2006,
+      "events": 200
+    },
+    {
+      "mn": 5,
+      "yr": 2006,
+      "events": 195
+    },
+    {
+      "mn": 7,
+      "yr": 2006,
+      "events": 217
+    },
+    {
+      "mn": 6,
+      "yr": 2006,
+      "events": 265
+    },
+    {
+      "mn": 11,
+      "yr": 2006,
+      "events": 217
+    },
+    {
+      "mn": 12,
+      "yr": 2006,
+      "events": 220
+    },
+    {
+      "mn": 10,
+      "yr": 2006,
+      "events": 194
+    },
+    {
+      "mn": 4,
+      "yr": 2006,
+      "events": 191
+    },
+    {
+      "mn": 3,
+      "yr": 2006,
+      "events": 238
+    },
+    {
+      "mn": 8,
+      "yr": 2006,
+      "events": 197
+    },
+    {
+      "mn": 10,
+      "yr": 2007,
+      "events": 262
+    },
+    {
+      "mn": 2,
+      "yr": 2007,
+      "events": 267
+    },
+    {
+      "mn": 5,
+      "yr": 2007,
+      "events": 275
+    },
+    {
+      "mn": 1,
+      "yr": 2007,
+      "events": 265
+    },
+    {
+      "mn": 12,
+      "yr": 2007,
+      "events": 392
+    },
+    {
+      "mn": 11,
+      "yr": 2007,
+      "events": 233
+    },
+    {
+      "mn": 7,
+      "yr": 2007,
+      "events": 294
+    },
+    {
+      "mn": 8,
+      "yr": 2007,
+      "events": 252
+    },
+    {
+      "mn": 3,
+      "yr": 2007,
+      "events": 302
+    },
+    {
+      "mn": 6,
+      "yr": 2007,
+      "events": 330
+    },
+    {
+      "mn": 4,
+      "yr": 2007,
+      "events": 294
+    },
+    {
+      "mn": 9,
+      "yr": 2007,
+      "events": 294
+    },
+    {
+      "mn": 7,
+      "yr": 2008,
+      "events": 320
+    },
+    {
+      "mn": 6,
+      "yr": 2008,
+      "events": 492
+    },
+    {
+      "mn": 9,
+      "yr": 2008,
+      "events": 370
+    },
+    {
+      "mn": 5,
+      "yr": 2008,
+      "events": 487
+    },
+    {
+      "mn": 2,
+      "yr": 2008,
+      "events": 281
+    },
+    {
+      "mn": 8,
+      "yr": 2008,
+      "events": 361
+    },
+    {
+      "mn": 4,
+      "yr": 2008,
+      "events": 364
+    },
+    {
+      "mn": 12,
+      "yr": 2008,
+      "events": 323
+    },
+    {
+      "mn": 3,
+      "yr": 2008,
+      "events": 340
+    },
+    {
+      "mn": 10,
+      "yr": 2008,
+      "events": 394
+    },
+    {
+      "mn": 11,
+      "yr": 2008,
+      "events": 312
+    },
+    {
+      "mn": 1,
+      "yr": 2008,
+      "events": 488
+    },
+    {
+      "mn": 2,
+      "yr": 2009,
+      "events": 350
+    },
+    {
+      "mn": 10,
+      "yr": 2009,
+      "events": 359
+    },
+    {
+      "mn": 8,
+      "yr": 2009,
+      "events": 342
+    },
+    {
+      "mn": 4,
+      "yr": 2009,
+      "events": 347
+    },
+    {
+      "mn": 5,
+      "yr": 2009,
+      "events": 309
+    },
+    {
+      "mn": 6,
+      "yr": 2009,
+      "events": 302
+    },
+    {
+      "mn": 12,
+      "yr": 2009,
+      "events": 252
+    },
+    {
+      "mn": 3,
+      "yr": 2009,
+      "events": 334
+    },
+    {
+      "mn": 9,
+      "yr": 2009,
+      "events": 320
+    },
+    {
+      "mn": 1,
+      "yr": 2009,
+      "events": 455
+    },
+    {
+      "mn": 11,
+      "yr": 2009,
+      "events": 269
+    },
+    {
+      "mn": 7,
+      "yr": 2009,
+      "events": 352
+    },
+    {
+      "mn": 7,
+      "yr": 2010,
+      "events": 307
+    },
+    {
+      "mn": 8,
+      "yr": 2010,
+      "events": 330
+    },
+    {
+      "mn": 4,
+      "yr": 2010,
+      "events": 431
+    },
+    {
+      "mn": 2,
+      "yr": 2010,
+      "events": 491
+    },
+    {
+      "mn": 11,
+      "yr": 2010,
+      "events": 345
+    },
+    {
+      "mn": 9,
+      "yr": 2010,
+      "events": 294
+    },
+    {
+      "mn": 5,
+      "yr": 2010,
+      "events": 371
+    },
+    {
+      "mn": 1,
+      "yr": 2010,
+      "events": 469
+    },
+    {
+      "mn": 3,
+      "yr": 2010,
+      "events": 441
+    },
+    {
+      "mn": 10,
+      "yr": 2010,
+      "events": 294
+    },
+    {
+      "mn": 6,
+      "yr": 2010,
+      "events": 378
+    },
+    {
+      "mn": 12,
+      "yr": 2010,
+      "events": 324
+    },
+    {
+      "mn": 4,
+      "yr": 2011,
+      "events": 708
+    },
+    {
+      "mn": 5,
+      "yr": 2011,
+      "events": 523
+    },
+    {
+      "mn": 1,
+      "yr": 2011,
+      "events": 532
+    },
+    {
+      "mn": 3,
+      "yr": 2011,
+      "events": 775
+    },
+    {
+      "mn": 6,
+      "yr": 2011,
+      "events": 494
+    },
+    {
+      "mn": 12,
+      "yr": 2011,
+      "events": 417
+    },
+    {
+      "mn": 2,
+      "yr": 2011,
+      "events": 687
+    },
+    {
+      "mn": 8,
+      "yr": 2011,
+      "events": 578
+    },
+    {
+      "mn": 9,
+      "yr": 2011,
+      "events": 463
+    },
+    {
+      "mn": 10,
+      "yr": 2011,
+      "events": 372
+    },
+    {
+      "mn": 11,
+      "yr": 2011,
+      "events": 416
+    },
+    {
+      "mn": 7,
+      "yr": 2011,
+      "events": 531
+    },
+    {
+      "mn": 8,
+      "yr": 2012,
+      "events": 1046
+    },
+    {
+      "mn": 7,
+      "yr": 2012,
+      "events": 1031
+    },
+    {
+      "mn": 4,
+      "yr": 2012,
+      "events": 596
+    },
+    {
+      "mn": 12,
+      "yr": 2012,
+      "events": 1094
+    },
+    {
+      "mn": 2,
+      "yr": 2012,
+      "events": 647
+    },
+    {
+      "mn": 5,
+      "yr": 2012,
+      "events": 767
+    },
+    {
+      "mn": 3,
+      "yr": 2012,
+      "events": 673
+    },
+    {
+      "mn": 10,
+      "yr": 2012,
+      "events": 1019
+    },
+    {
+      "mn": 11,
+      "yr": 2012,
+      "events": 1155
+    },
+    {
+      "mn": 9,
+      "yr": 2012,
+      "events": 799
+    },
+    {
+      "mn": 6,
+      "yr": 2012,
+      "events": 974
+    },
+    {
+      "mn": 1,
+      "yr": 2012,
+      "events": 674
+    },
+    {
+      "mn": 3,
+      "yr": 2013,
+      "events": 1268
+    },
+    {
+      "mn": 11,
+      "yr": 2013,
+      "events": 1321
+    },
+    {
+      "mn": 8,
+      "yr": 2013,
+      "events": 1303
+    },
+    {
+      "mn": 6,
+      "yr": 2013,
+      "events": 1037
+    },
+    {
+      "mn": 9,
+      "yr": 2013,
+      "events": 1287
+    },
+    {
+      "mn": 1,
+      "yr": 2013,
+      "events": 1197
+    },
+    {
+      "mn": 4,
+      "yr": 2013,
+      "events": 1095
+    },
+    {
+      "mn": 2,
+      "yr": 2013,
+      "events": 1089
+    },
+    {
+      "mn": 5,
+      "yr": 2013,
+      "events": 1155
+    },
+    {
+      "mn": 10,
+      "yr": 2013,
+      "events": 1267
+    },
+    {
+      "mn": 12,
+      "yr": 2013,
+      "events": 1240
+    },
+    {
+      "mn": 7,
+      "yr": 2013,
+      "events": 1424
+    },
+    {
+      "mn": 8,
+      "yr": 2014,
+      "events": 1375
+    },
+    {
+      "mn": 9,
+      "yr": 2014,
+      "events": 1282
+    },
+    {
+      "mn": 4,
+      "yr": 2014,
+      "events": 1400
+    },
+    {
+      "mn": 3,
+      "yr": 2014,
+      "events": 1517
+    },
+    {
+      "mn": 11,
+      "yr": 2014,
+      "events": 1317
+    },
+    {
+      "mn": 6,
+      "yr": 2014,
+      "events": 1238
+    },
+    {
+      "mn": 12,
+      "yr": 2014,
+      "events": 1184
+    },
+    {
+      "mn": 10,
+      "yr": 2014,
+      "events": 1439
+    },
+    {
+      "mn": 2,
+      "yr": 2014,
+      "events": 1379
+    },
+    {
+      "mn": 5,
+      "yr": 2014,
+      "events": 1510
+    },
+    {
+      "mn": 7,
+      "yr": 2014,
+      "events": 1468
+    },
+    {
+      "mn": 1,
+      "yr": 2014,
+      "events": 1707
+    },
+    {
+      "mn": 12,
+      "yr": 2015,
+      "events": 2344
+    },
+    {
+      "mn": 4,
+      "yr": 2015,
+      "events": 2251
+    },
+    {
+      "mn": 11,
+      "yr": 2015,
+      "events": 2119
+    },
+    {
+      "mn": 9,
+      "yr": 2015,
+      "events": 1936
+    },
+    {
+      "mn": 10,
+      "yr": 2015,
+      "events": 2021
+    },
+    {
+      "mn": 1,
+      "yr": 2015,
+      "events": 2725
+    },
+    {
+      "mn": 3,
+      "yr": 2015,
+      "events": 2398
+    },
+    {
+      "mn": 6,
+      "yr": 2015,
+      "events": 1746
+    },
+    {
+      "mn": 8,
+      "yr": 2015,
+      "events": 1832
+    },
+    {
+      "mn": 2,
+      "yr": 2015,
+      "events": 2350
+    },
+    {
+      "mn": 7,
+      "yr": 2015,
+      "events": 1828
+    },
+    {
+      "mn": 5,
+      "yr": 2015,
+      "events": 2122
+    },
+    {
+      "mn": 2,
+      "yr": 2016,
+      "events": 189
+    },
+    {
+      "mn": 1,
+      "yr": 2016,
+      "events": 1432
+    },
+    {
+      "mn": 3,
+      "yr": 2016,
+      "events": 52
+    }
+  ]
+}
