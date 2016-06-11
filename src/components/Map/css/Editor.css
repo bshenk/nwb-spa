@@ -170,32 +170,3 @@
 	color:#FEC131;
 	cursor:pointer;
 }
-
-.leaflet-popup-content {
-	padding:15px 0;
-	margin:0;
-}
-
-.leaflet-popup-content-wrapper {
-	background:#2F3136;
-	color:white;
-	border-radius:0;
-	padding:0;
-}
-
-.leaflet-popup-tip {
-	background:#27292e;
-}
-
-.leaflet-container a.leaflet-popup-close-button {
-	opacity:.5;
-	font-size:1.2rem;
-}
-
-.leaflet-popup-title {
-	background:#27292e;
-	padding:10px;
-	margin:-15px -15px 10px -15px;
-	min-width:130px;
-	text-align:center;
-}

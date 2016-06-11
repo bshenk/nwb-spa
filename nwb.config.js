@@ -1,4 +1,7 @@
 const path = require('path');
+const unixPath =  path.resolve(__dirname, 'src/components/App/css/theme.scss');
+const winPath = 'C:/Users/bshen/Documents/Development/nwb-spa/src/components/App/css/theme.scss';
+// const winPath = `${__dirname}/src/components/App/css/theme.scss`;
 
 module.exports = {
   type: 'react-app',
@@ -24,7 +27,8 @@ module.exports = {
 			  ]
 		  },
 		  sassLoader: {
-			  data: '@import "' + path.resolve(__dirname, 'src/components/App/css/theme.scss') + '";'
+			  // data: '@import "' + + '";'
+        data: `@import "${process.platform === 'win32' ? winPath : unixPath}";`
 		  }
 	  }
   },

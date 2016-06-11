@@ -85,7 +85,7 @@ function mapStateToProps({ map, config, routing, data }) {
 }
 
 function mapDispatchToProps(dispatch) {
-	return bindActionCreators({ updateConfigStore, updateScenario, fetchCategoryData, 
+	return bindActionCreators({ updateConfigStore, updateScenario, fetchCategoryData,
 		mapLoaded, addMapData, hideMapData, showMapData, setMatchingPct, addMap,
 		fetchEventPreview, updateRequest, fetchCurrentData, updateStatus }, dispatch);
 }
