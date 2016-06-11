@@ -91,7 +91,7 @@
 	border-bottom-right-radius: 0;
 }
 
-.leaflet-draw-toolbar a {
+/*.leaflet-draw-toolbar a {
 	background-image: url('../../../images/spritesheet.png');
 	background-repeat: no-repeat;
 }
@@ -99,7 +99,7 @@
 .leaflet-retina .leaflet-draw-toolbar a {
 	background-image: url('../../../images/spritesheet-2x.png');
 	background-size: 270px 30px;
-}
+}*/
 
 .leaflet-draw a {
 	display: block;
